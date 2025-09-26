@@ -10,6 +10,8 @@
     <a href="ExercicisTaules.php">Exercicis Taulas</a>
     <br>
     <a href="ExerciciTaulellSudoku.php">Exercicis Taulell Sudoku</a>
+    <br>
+    <a href="ExerciciBatallaNaval.php">Exercicis Batalla Naval</a>
 
 
 
